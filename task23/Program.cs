@@ -8,16 +8,16 @@
 // int i = 1;
 // while (i <=N )
 // {
-//     int x = i * i;
+//     int x = i * i * i;
 //     System.Console.WriteLine(x);
 //     i++;
 // }
 
-Console.Write("Введите число N : ");
-int N = int.Parse(Console.ReadLine()!);
-for (int i = 1; i <=N; i++)
-{
-    int x = i * i;
-    Console.WriteLine(x);
-}
+// Console.Write("Введите число N : ");
+// int N = Convert.ToInt32(Console.ReadLine());  
+// for (int i = 1; i <= N; i++)
+// {
+//   int x = i * i;
+//   Console.WriteLine(x);
+// }
 
