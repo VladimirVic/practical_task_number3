@@ -1,0 +1,15 @@
+C:\Users\Владимир\OneDrive\Рабочий стол\practical_task_number3\task26\bin\Debug\net6.0\task26.exe
+C:\Users\Владимир\OneDrive\Рабочий стол\practical_task_number3\task26\bin\Debug\net6.0\task26.deps.json
+C:\Users\Владимир\OneDrive\Рабочий стол\practical_task_number3\task26\bin\Debug\net6.0\task26.runtimeconfig.json
+C:\Users\Владимир\OneDrive\Рабочий стол\practical_task_number3\task26\bin\Debug\net6.0\task26.dll
+C:\Users\Владимир\OneDrive\Рабочий стол\practical_task_number3\task26\bin\Debug\net6.0\task26.pdb
+C:\Users\Владимир\OneDrive\Рабочий стол\practical_task_number3\task26\obj\Debug\net6.0\task26.csproj.AssemblyReference.cache
+C:\Users\Владимир\OneDrive\Рабочий стол\practical_task_number3\task26\obj\Debug\net6.0\task26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир\OneDrive\Рабочий стол\practical_task_number3\task26\obj\Debug\net6.0\task26.AssemblyInfoInputs.cache
+C:\Users\Владимир\OneDrive\Рабочий стол\practical_task_number3\task26\obj\Debug\net6.0\task26.AssemblyInfo.cs
+C:\Users\Владимир\OneDrive\Рабочий стол\practical_task_number3\task26\obj\Debug\net6.0\task26.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\OneDrive\Рабочий стол\practical_task_number3\task26\obj\Debug\net6.0\task26.dll
+C:\Users\Владимир\OneDrive\Рабочий стол\practical_task_number3\task26\obj\Debug\net6.0\refint\task26.dll
+C:\Users\Владимир\OneDrive\Рабочий стол\practical_task_number3\task26\obj\Debug\net6.0\task26.pdb
+C:\Users\Владимир\OneDrive\Рабочий стол\practical_task_number3\task26\obj\Debug\net6.0\task26.genruntimeconfig.cache
+C:\Users\Владимир\OneDrive\Рабочий стол\practical_task_number3\task26\obj\Debug\net6.0\ref\task26.dll
